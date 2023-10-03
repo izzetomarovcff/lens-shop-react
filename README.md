@@ -1,1 +1,3 @@
-# lens-shop-react
+`npm install`
+
+`npm start`
